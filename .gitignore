@@ -101,3 +101,4 @@ venv/
 ENV/
 env/
 .env
+raw_data/files/violencia_intrafamiliar/Violencia_Intrafamiliar_Consolidado.csv
